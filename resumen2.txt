@@ -1,0 +1,3 @@
+Resumen Unidad 2
+
+La unidad 2 estuvo un poco mas cargada ya que comenzamos por ver conceptos importantes como tipos de datos y operadores. Los operadores de los mas basicos son los de suma, resta, etc y vienen los que son un poco mas complejos como lo son los operadores logicos. Luego vienen las estructuras de control condicionales a traves de los if, if else, ciclos como for, que a funcionan, como su nombre indica a traves de una condicion previamente impuesta. Logre comprender de mejor forma el ciclo for, el cual consiste de 3 partes: la inicializacion, la condicion y el incremento que esta tiene. 

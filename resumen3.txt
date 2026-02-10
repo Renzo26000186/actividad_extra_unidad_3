@@ -1,0 +1,3 @@
+Resumen Unidad 3
+
+En la unidad 3 repasamos lo que son los controladores de versiones. Dichos controladores nos ayudan a tener un mejor orden, visibilidad, y facilitan la forma de trabajar de forma colaborativa, ademas de que nos permiten tener registro de versiones anteriores de codigo que si en dado momento necesitamos, podemos volver a dicha version. La herramienta mas popular es GIT, que funciona a traves de su Bash, el cual es una especie de panel de comandos en donde nosotros podemos ejecutar instrucciones para subir, actualizar, crear ramas, etc que sirven para actualizar nuestros proyectos. Dicha herramienta esta vinculada con el sitio GitHub el cual puedo describir como una parte mas agradable para el usuario. 
